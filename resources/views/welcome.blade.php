@@ -6,9 +6,6 @@
     <title>Livewire</title>
 </head>
 <body>
-    <livewire:counter />
-    <br><hr>
-    <livewire:message />
     @livewireScripts
 </body>
 </html>
