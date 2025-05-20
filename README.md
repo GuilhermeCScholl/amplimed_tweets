@@ -51,5 +51,21 @@ Este projeto foi desenvolvido com o intuito de entender um pouco melhor o mecani
     ```bash
     php artisan serve --port=8040
     
+## Prints do sistema
+<p align="center">
+  <img src="./public/readme-imgs/1.png" width="400"/>
+</p>
+<p align="center">
+  <img src="./public/readme-imgs/2.png" width="400"/>
+</p>
+<p align="center">
+  <img src="./public/readme-imgs/3.png" width="400"/>
+</p>
+<p align="center">
+  <img src="./public/readme-imgs/4.png" width="400"/>
+</p>
+<p align="center">
+  <img src="./public/readme-imgs/5.png" width="400"/>
+</p>
 
 
