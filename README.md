@@ -53,19 +53,19 @@ Este projeto foi desenvolvido com o intuito de entender um pouco melhor o mecani
     
 ## Prints do sistema
 <p align="center">
-  <img src="./public/readme-imgs/1.png" width="400"/>
+  <img src="./public/readme-imgs/1.png" width="800"/>
 </p>
 <p align="center">
-  <img src="./public/readme-imgs/2.png" width="400"/>
+  <img src="./public/readme-imgs/2.png" width="800"/>
 </p>
 <p align="center">
-  <img src="./public/readme-imgs/3.png" width="400"/>
+  <img src="./public/readme-imgs/3.png" width="800"/>
 </p>
 <p align="center">
-  <img src="./public/readme-imgs/4.png" width="400"/>
+  <img src="./public/readme-imgs/4.png" width="800"/>
 </p>
 <p align="center">
-  <img src="./public/readme-imgs/5.png" width="400"/>
+  <img src="./public/readme-imgs/5.png" width="800"/>
 </p>
 
 
