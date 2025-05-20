@@ -8,7 +8,6 @@
 - [Jetstream](https://jetstream.laravel.com/) com stack Livewire
 - [Livewire](https://laravel-livewire.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
 - [MySQL](https://www.mysql.com/)
 
 ## ⚙️ Instalação
