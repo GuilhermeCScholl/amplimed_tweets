@@ -4,7 +4,7 @@
 Este projeto foi desenvolvido com o intuito de entender um pouco melhor o mecanismo do livewire para aplicação em projetos secundários ou menores da amplimed que podem ser usados como monolito como por exemplo a funcionalidades de pré-protocolos utilizada na api de APS.
 ## 🚀 Tecnologias Utilizadas
 
-- [Laravel] (https://laravel.com/)
+- [Laravel](https://laravel.com/)
 - [Jetstream](https://jetstream.laravel.com/) com stack Livewire
 - [Livewire](https://laravel-livewire.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
