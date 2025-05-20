@@ -1,6 +1,6 @@
-# Live
+# Amplimed Tweets
 
-**Live** é uma aplicação web desenvolvida com [Laravel](https://laravel.com/), utilizando [Jetstream](https://jetstream.laravel.com/) e [Livewire](https://laravel-livewire.com/) para fornecer uma experiência de usuário dinâmica e reativa.
+**Amplimed Tweets** é uma aplicação web desenvolvida com [Laravel](https://laravel.com/), utilizando [Jetstream](https://jetstream.laravel.com/) e [Livewire](https://laravel-livewire.com/) para fornecer uma experiência de usuário dinâmica e reativa.
 
 ## 🚀 Tecnologias Utilizadas
 
