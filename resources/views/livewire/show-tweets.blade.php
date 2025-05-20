@@ -62,7 +62,7 @@
 
     @endforeach
     <hr>
-    <div>
+    <div class="max-w-xl mx-auto px-5 py-5">
         {{ $tweets->links() }}
     </div>
 </div>

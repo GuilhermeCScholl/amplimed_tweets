@@ -12,7 +12,7 @@
 
         <label
             for="photo"
-            class="flex items-center justify-center gap-2 px-4 py-2 bg-purple-600 text-white rounded-lg shadow cursor-pointer hover:bg-purple-800 transition focus:outline-none focus:ring-2 focus:ring-purple-400"
+            class="flex items-center justify-center gap-2 px-4 py-2 bg-purple-600 text-white rounded-full shadow cursor-pointer hover:bg-purple-800 transition focus:outline-none focus:ring-2 focus:ring-purple-400"
         >
             <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round"
@@ -29,7 +29,7 @@
         <div class="mt-6 flex justify-center">
             <button
                 type="submit"
-                class="bg-purple-600 hover:bg-purple-800 text-white font-semibold px-6 py-2 rounded-md shadow transition focus:outline-none focus:ring-2 focus:ring-purple-400"
+                class="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-2 px-6 rounded-full shadow-md transition"
             >
                 Upload Foto
             </button>
